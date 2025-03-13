@@ -3,7 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ex2_Suite_de_Fibonacci;
+package ex2_Exceptions_SuiteFibonacci;
+
 /**
  *
  * @author hamza

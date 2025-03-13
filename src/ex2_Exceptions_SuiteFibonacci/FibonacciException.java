@@ -3,14 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ex1_Saisie_correcte;
-
+package ex2_Exceptions_SuiteFibonacci;
 /**
  *
  * @author hamza
  */
-public class IncorrectValueException extends Exception {
-    public IncorrectValueException(String msg) {
+public class FibonacciException extends Exception {
+    public FibonacciException(String msg) {
         super(msg);
     }
 }
