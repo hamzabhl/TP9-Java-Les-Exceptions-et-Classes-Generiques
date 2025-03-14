@@ -3,9 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/TP7-Java-Les%20exceptions/src/Ex2_Suite_de_Fibonacci/Test.java</file>
-            <file>file:/C:/xampp/htdocs/TP7-Java-Les%20exceptions/src/Ex2_Suite_de_Fibonacci/Fibonacci.java</file>
-            <file>file:/C:/xampp/htdocs/TP7-Java-Les%20exceptions/src/Ex2_Suite_de_Fibonacci/FibonacciException.java</file>
+            <file>file:/C:/xampp/htdocs/TP7-Java-Exceptions_ClassesGeneriques/src/ex1_Exceptions_SaisieCorrecte/IncorrectValueException.java</file>
+            <file>file:/C:/xampp/htdocs/TP7-Java-Exceptions_ClassesGeneriques/src/ex1_Exceptions_SaisieCorrecte/Test.java</file>
+            <file>file:/C:/xampp/htdocs/TP7-Java-Exceptions_ClassesGeneriques/src/ex1_Exceptions_SaisieCorrecte/SaisieCorrecte.java</file>
         </group>
     </open-files>
 </project-private>

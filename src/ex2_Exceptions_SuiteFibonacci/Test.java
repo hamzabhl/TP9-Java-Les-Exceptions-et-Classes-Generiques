@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package ex2_Exceptions_SuiteFibonacci;
+
 /**
  *
  * @author hamza
@@ -11,7 +12,9 @@ package ex2_Exceptions_SuiteFibonacci;
 import ex2_Exceptions_SuiteFibonacci.FibonacciException;
 import ex2_Exceptions_SuiteFibonacci.Fibonacci;
 import java.util.Scanner;
+
 public class Test {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = 0;
@@ -20,7 +23,7 @@ public class Test {
         while (!validInput) {
             try {
                 System.out.print("Entrez un entier strictement positif : ");
-                if (!scanner.hasNextInt()) {  
+                if (!scanner.hasNextInt()) {
                     throw new Exception("Entrée invalide! \n");
                 }
                 n = scanner.nextInt();

@@ -4,11 +4,13 @@
  * and open the template in the editor.
  */
 package ex2_Exceptions_SuiteFibonacci;
+
 /**
  *
  * @author hamza
  */
 public class FibonacciException extends Exception {
+
     public FibonacciException(String msg) {
         super(msg);
     }

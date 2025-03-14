@@ -9,7 +9,6 @@ package ex1_Exceptions_SaisieCorrecte;
  *
  * @author hamza
  */
-import ex1_Exceptions_SaisieCorrecte.IncorrectValueException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

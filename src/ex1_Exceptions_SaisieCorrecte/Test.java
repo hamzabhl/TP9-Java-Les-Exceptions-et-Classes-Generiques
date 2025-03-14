@@ -12,6 +12,7 @@ import ex1_Exceptions_SaisieCorrecte.SaisieCorrecte;
  * @author hamza
  */
 public class Test {
+
     public static void main(String[] args) {
         int resultat = SaisieCorrecte.saisieCorrecte();
         System.out.println("Vous avez saisi : " + resultat);

@@ -10,6 +10,7 @@ package ex2_Exceptions_SuiteFibonacci;
  * @author hamza
  */
 public class Fibonacci {
+
     public static int fibonacci(int n) throws FibonacciException {
         if (n <= 0) {
             throw new FibonacciException("L'entier doit être supérieur à 0! \n");
